@@ -24,6 +24,9 @@
 * Pagination => [kaminari](https://github.com/kaminari/kaminari)
 * [cancancan](https://github.com/CanCanCommunity/cancancan)
 * [jquery](https://jqueryui.com)
+* 크롤링(RestClient, Nokogiri) => http://dailyoscar.tistory.com/48
+         http://sookmyunglion.tistory.com/9
+* [git branch 설명](http://amazingguni.github.io/blog/2016/03/git-branch-%EA%B7%9C%EC%B9%99)
 
 #### `c9에서 git에 올리기`
 
